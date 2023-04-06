@@ -28,7 +28,7 @@ work_type \
 Residence_type \
 avg_glucose_level \
 bmi \
-smoking_status \ 
+smoking_status 
 
 
 ## Resources:
